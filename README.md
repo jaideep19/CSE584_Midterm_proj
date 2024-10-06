@@ -87,7 +87,7 @@ To use either of the models, you can follow the steps in the provided code to:
 
 - Clone the repository and install the dependencies.
 - Prepare your dataset in a CSV file with columns: `Input Prompt`, `LLM Output`, and `Used LLM`. or You can use the .csv file train your models.
-- Run the training script to train the models or use the evaluation script to check model performance.
+- Run the training script in the .ipynb file to train the models or use the evaluation script to check model performance.
 
 ## Future Work
 
